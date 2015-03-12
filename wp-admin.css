@@ -1,0 +1,18 @@
+/*wp-admin-theme*/
+
+#header-logo {
+background:transparent url(my-admin-logo.png) no-repeat scroll center center;
+}
+
+#update-nag {
+display: none;
+}
+
+#footer-upgrade {
+display: none;
+}
+
+#wpwrap {background: gold;}
+
+
+
